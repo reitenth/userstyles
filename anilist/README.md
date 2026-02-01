@@ -5,8 +5,7 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/reitenth/userstyles/issues"><img src="https://img.shields.io/github/issues/catppuccin/userstyles/anilist?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://raw.githubusercontent.com/reitenth/userstyles/main/anilist/style.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
+	<a href="https://raw.githubusercontent.com/reitenth/userstyles/main/anilist/style.css"><img src="https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg"></a>
 </p>
 
 <p align="center">
