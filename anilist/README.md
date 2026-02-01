@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/reitenth/userstyles/main/anilist/style.css">
+  <a href="https://raw.githubusercontent.com/reitenth/userstyles/main/anilist/anilist.user.css">
     <img src="https://img.shields.io/badge/Install%20with-Stylus-00adff?style=for-the-badge&logo=css3" alt="Install with Stylus">
   </a>
 </p>
