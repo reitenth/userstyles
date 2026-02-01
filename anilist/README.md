@@ -5,12 +5,13 @@
 </h3>
 
 <p align="center">
-	<a href="https://raw.githubusercontent.com/reitenth/userstyles/main/anilist/style.css"><img src="https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg"></a>
+  <a href="https://raw.githubusercontent.com/reitenth/userstyles/main/anilist/style.css">
+    <img src="https://img.shields.io/badge/Install%20with-Stylus-00adff?style=for-the-badge&logo=css3" alt="Install with Stylus">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9d52f8be-aea2-461a-86b7-a4a92e95f85c" />
-
 </p>
 
 <p align="center">
